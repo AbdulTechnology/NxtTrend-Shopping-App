@@ -134,6 +134,8 @@
   margin-left: 14px;
   cursor: pointer;
   outline: none;
+  display: flex;
+  justify-content: flex-end;
 }
 
 @media screen and (max-width: 767px) {
