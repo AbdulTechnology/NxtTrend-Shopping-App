@@ -2,9 +2,9 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 ### Refer to the video below:
 
-Sample Credentail:
-username:rahul
-password:rahul@2021
+Sample Credential:
+username:rahul,
+password:rahul@2021,
 
 <br/>
 <div style="text-align: center;">
