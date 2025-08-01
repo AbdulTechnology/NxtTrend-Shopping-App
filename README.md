@@ -1,10 +1,12 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+In this project, let's build a **Nxt Trendz - Cart Features**.
+
+Sample Credential:
+username:**rahul**,
+password:**rahul@2021**,
 
 ### Refer to the video below:
 
-Sample Credential:
-username:rahul,
-password:rahul@2021,
+
 
 <br/>
 <div style="text-align: center;">
